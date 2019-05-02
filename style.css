@@ -8,6 +8,7 @@ body {
 
   display: flex;
   flex-flow: row wrap;
+  justify-content: center;
 }
 
 .main_container-article {
