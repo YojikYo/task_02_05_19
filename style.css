@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.main_container {
+  /*трохи схитрю*/
+  padding: 10px;
+
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.main_container-article {
+  width: 100px;
+  height: 200px;
+  margin: 10px;
+
+  background-color: gray;
+}
